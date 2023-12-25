@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Guides
 menu: {main: {weight: 30}}
 ---
 

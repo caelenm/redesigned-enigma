@@ -1,39 +1,36 @@
 ---
-title: Goldydocs
+title: ecoScotia
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to ecoScotia: An Open resource for sustainable living" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/caelenm/redesigned-enigma">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<p class="lead mt-5">Open Source, Extensible, Community-based</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+ecoScotia provides guides on how to live a more sustainable and self-sufficient life
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+(Contribute to our guides or learn how to set up your own instance [Here](https://github.com/caelenm/redesigned-enigma)!)
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+{{% blocks/feature icon="fa-lightbulb" title="New Ideas!" %}}
+Everything from Greenhouses to Solar Power to Emergency Preparedness, ecoScotia has resources for you
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
 
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+We do a [Pull Request](https://github.com/caelenm/redesigned-enigma/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 
@@ -46,7 +43,7 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-This is the second section
+Guten tag
 {.h1 .text-center}
 {{% /blocks/section %}}
 
@@ -58,8 +55,8 @@ Get the Goldydocs app!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
+    url="https://github.com/caelenm/redesigned-enigma" %}}
+We do a [Pull Request](https://github.com/caelenm/redesigned-enigma/pulls)
 contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
