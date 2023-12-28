@@ -1,7 +1,11 @@
 ---
-title: Based Department
-date: 2023-12-22
+title: Z - Template Post
+date: 2019-12-22
 description: >
+  
+  This is a template post to get you started, all the basic markdown syntax is included in this page.
+  To make a new post simply use the syntax in this template and make a pull request on github.
+  
   A short lead description about this content page. Text here can also be
   **bold** or _italic_ and can even be split over multiple paragraphs.
 ---
