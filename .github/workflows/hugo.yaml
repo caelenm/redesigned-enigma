@@ -46,8 +46,7 @@ jobs:
         run: sudo rm /opt/hostedtoolcache/node/18.19.0/x64/bin/npx || true
       - name: Install Node.js dependencies
         run: |
-          npm install -g postcss-cli npx
-          npm install postcss@^8.0.0
+          npm install -g postcss-cli autoprefixer
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
@@ -64,6 +63,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          npm install  # Install local dependencies including 'postcss-cli' and 'autoprefixer'
           hugo \
             --gc \
             --minify \
