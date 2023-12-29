@@ -1,7 +1,11 @@
 {{ define "main" -}}
 <div class="td-content">
-  <h1>Not found</h1>
-  <p>Oops! This page doesn't exist. Try going back to the <a href="{{ "" | relURL }}">home page</a>.</p>
-  <p>You can learn how to make a 404 page like this in <a href="https://gohugo.io/templates/404/">Custom 404 Pages</a>.</p>
+  <h1>Oops! 404 - Not Found</h1>
+  <p>This page seems to be lost in the digital wilderness.</p>
+  <img src="https://example.com/lost.gif" alt="Lost in the code">
+  <p>But don't worry, you can always go back to the <a href="{{ "" | relURL }}">home page</a>.</p>
+  <p>Feel free to explore other pages or check out some <a href="{{ "/blog" | relURL }}">interesting blog posts</a>.</p>
+  <p>If you're feeling adventurous, you can also <a href="{{ "/contact" | relURL }}">contact us</a> for assistance.</p>
 </div>
 {{- end }}
+
