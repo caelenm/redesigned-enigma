@@ -1,6 +1,7 @@
 ---
-title: Z - Template Post
+title: Template Post
 date: 2019-12-22
+weight: 0
 description: >
   
   This is a template post to get you started, all the basic markdown syntax is included in this page.
