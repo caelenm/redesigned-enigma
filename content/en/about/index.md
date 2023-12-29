@@ -14,7 +14,7 @@ An open, extensible, community-based reource for sustaniable and self-sufficient
 
 {{% blocks/lead %}}
 
-ecoScotia is an Open-Source project in Collaboration with the [Frank McKenna Centre for Leadership](https://mckenna.stfx.ca/)
+ecoScotia is an Open-Source project in collaboration with the [Frank McKenna Centre for Leadership](https://mckenna.stfx.ca/)
 
 {{% /blocks/lead %}}
 
