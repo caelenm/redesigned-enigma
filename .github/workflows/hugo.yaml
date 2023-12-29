@@ -1,6 +1,6 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
-#test
+
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -41,7 +41,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Use a Node.js version compatible with the PostCSS packages
+          node-version: '18'  # Use Node.js version 18
       - name: Install Node.js dependencies
         run: |
           npm install -g postcss-cli npx
